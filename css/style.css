@@ -1,0 +1,214 @@
+
+body {
+	font-family: 'Playfair Display', serif;
+}
+
+h1 {
+    font-weight: 700;
+    margin-bottom: 20px;
+    font-size: 30px;
+}
+
+.navbar {
+    padding: 26px 0;  
+}
+.nav-link {
+    font-size: 15px;
+    margin-left: 35px;
+    color: #191919 !important;
+    text-transform: uppercase;
+    transition: .5s;
+    display: inline-block;
+}
+
+.nav-link:hover {
+	border-bottom: 1px solid #000;
+	color: #000;
+} 
+
+
+
+
+
+.bannerimg {
+	width: 100%;
+}
+
+/*banner section*/
+.singlebolg {
+	padding: 80px 0;
+}
+
+.singlebolg p {
+	font-size: 16px;
+	line-height: 2;
+	color: #3f3f3f;
+}  
+
+.photodairy {}
+
+
+/*.secound-blog section*/
+
+.secound-blog {
+	padding: 50px 0;
+}
+
+.secound-blog .lifestyle {
+    margin-bottom: 4%!important;
+}
+.secound-blog .blog-img {
+	margin-bottom: 20px;
+}
+
+.secound-blog h1 {
+	font-size: 25px;
+	text-transform: uppercase;
+	margin-bottom: 19px;
+}
+
+.secound-blog p {
+	font-size: 18px;
+	margin-bottom: 15%;
+}
+
+
+.loadmore {
+	background: none;
+	padding: 20px 40px;
+	border: 1px solid #000;
+	margin-top: 30% !important;
+	color: #000;
+	font-size: 18px;
+	display: inline-block;
+}
+
+/*newslatter section*/
+
+.newslatter {
+	padding: 80px 0;
+	background: #e9ecef;
+	margin-top: 11%;
+} 
+
+.line {
+    width: 47% !important;
+    margin: 0 auto;
+}
+.sub {
+    margin-left: 36%;
+}
+.input-m {
+	background: none;
+	border: none;
+	font-size: 16px;
+}
+
+.line {
+   height: 1px;
+   background: #000;
+   width: 35% !important;
+}
+
+.newslatter h1 {
+	text-transform: uppercase;
+}
+
+.newslatter form {
+	
+width: 39%;
+	
+margin: 0 auto;
+}
+
+.form-control {
+    background: transparent;
+    border: none;
+}
+
+/*footer section*/
+
+.footer {
+	padding: 20px 0;
+	background: #3f3f3f;
+}
+
+.footer p {
+	color: #fff;
+	font-size: 18px;
+	margin-top: 5px;
+}
+
+.footer ul li i {
+	
+color: #fff;
+	
+font-size: 25px;
+	
+margin-left: -30px;
+}
+
+
+
+
+
+
+/*responsive section*/
+
+/*// Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+
+
+.navbar {
+    padding: 30px;
+}
+
+.}
+.newslatter form {	
+	width: 44% !important;
+}
+
+.sub {
+	margin-left: 0;
+}
+
+.line {
+	width: 40% !important;
+}
+
+
+
+}
+
+/*// Small devices (landscape phones, less than 768px)*/
+@media (max-width: 767.98px) { 
+
+
+.navbar {
+    padding: 30px;
+}
+.nav-link {
+    font-size: 7px;
+    margin-left: 10px;
+}
+
+}
+
+/*// Medium devices (tablets, less than 992px)*/
+@media (max-width: 991.98px) {
+
+	.navbar {
+    padding: 30px;
+}
+.nav-link {
+    font-size: 15px;
+    margin-left: 20px;
+    text-align: right;
+}
+
+
+}
+
+/*// Large devices (desktops, less than 1200px)*/
+@media (max-width: 1199.98px) { ... }
+9
