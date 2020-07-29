@@ -1,2 +1,1 @@
-# Minimo-Responsive
-Practice Project
+https://aliibnemasud.github.io/Minimo-Responsive/
